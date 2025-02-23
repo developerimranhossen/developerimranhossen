@@ -1,16 +1,30 @@
-## Hi there 👋
+**Hi there, I'm Imran Hossen 👋**
 
-<!--
-**developerimranhossen/developerimranhossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 **Front-End Web Developer**
 
-Here are some ideas to get you started:
+I'm a passionate front-end web developer specializing in modern web technologies. I love crafting seamless user experiences with clean and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 **Tech Stack:**
+
+- ⚛️ **React.js**
+- ⚡ **Next.js**
+- 🎨 **Tailwind CSS**
+- 🌐 **Webflow**
+- 📜 **JavaScript (ES6+)**
+- 🏗️ **Responsive Web Design**
+
+### 📌 **About Me:**
+
+- 🔨 **Building interactive and responsive web applications**
+- 🚀 **Always learning and keeping up with the latest front-end trends**
+- 💡 **Open to collaborating on exciting web projects**
+- 📝 **Sharing knowledge through blogs and open-source contributions**
+
+### 📫 **Let's Connect:**
+
+- **Portfolio:** https://imrans--portfolio.webflow.io/
+- **LinkedIn:** https://www.linkedin.com/in/developerimranhossen/
+- **Twitter:** https://x.com/developerimranh
+- **Email:** developerimranhossen@gmail.com
+
+**Thanks for stopping by! Happy coding! 🚀**
